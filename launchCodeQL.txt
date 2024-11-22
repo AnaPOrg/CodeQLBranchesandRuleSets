@@ -1,0 +1,1 @@
+this is just testing if CodeQL will be kicked off when commiting a file to a protected branch
